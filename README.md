@@ -1,6 +1,6 @@
 <div align="center">
   <img src="<div align="center">
-  <img src="https://i.pinimg.com/originals/45/e4/79/45e479ae0f8355a254862992bac33f5b.gif"  
+  <img src="https://cdn.wallpapersafari.com/12/10/BnTl0o.gif"  
     alt="Video Banner" width="1000" height="500"/>
 </div>"  
     alt="Video Banner" width="1000" height="500"/>
