@@ -3,8 +3,8 @@
   <img src="https://cdn.wallpapersafari.com/12/10/BnTl0o.gif"  
     alt="Video Banner" width="1000" height="500"/>
 </div>"  
-    alt="Video Banner" width="1000" height="500"/>
-</div>
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adventure_with_nitin_kumar) 
 
