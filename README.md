@@ -1,3 +1,10 @@
+# 👋 Hi, I'm Nitin Kumar  
+
+🎓 **B.Tech CSE Student @ GLA University, Mathura**  
+💡 Passionate about ** DSA | Web Development | DBMS**  
+🌱 Currently learning **Java | Python | Full-Stack Development **  
+💼 Looking for **Internship **  
+
 <div align="center">
   <img src="<div align="center">
   <img src="https://cdn.wallpapersafari.com/12/10/BnTl0o.gif"  
