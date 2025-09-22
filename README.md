@@ -7,8 +7,8 @@
 
 <div align="center">
   <img src="<div align="center">
-  <img src="https://cdn.wallpapersafari.com/12/10/BnTl0o.gif"  
-    alt="Video Banner" width="1000" height="500"/>
+  <img src="https://png.pngtree.com/png-clipart/20230913/original/pngtree-code-clipart-cartoon-character-working-on-a-computer-with-headphones-vector-png-image_11067088.png"  
+     width="500" height="500"/>
 </div>"  
 
 
