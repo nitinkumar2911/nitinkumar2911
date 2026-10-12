@@ -1,56 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nitin Kumar
-====================================================================================================================================
 
-Full Stack Developer | Java | React | JavaScript | DSA Enthusiast
------------------------------------------------------------------
+<!-- ========== HERO BANNER ========== -->
 
-🚀 Full Stack Developer
+<div align="center">
 
-💻 Java | JavaScript | React
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=Nitin%20Kumar&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React&descAlignY=60&descSize=18" width="100%" alt="Nitin Kumar developer banner"/>
 
-📚 Data Structures & Algorithms Enthusiast
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+JavaScript+%7C+React;DSA+Enthusiast;Building+Projects+That+Matter;Always+Learning.+Always+Building." alt="Animated typing introduction"/>
+</a>
 
-🌱 Always learning and building
-
-⚡ Turning ideas into real-world projects
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [nitin2911.in@gmail.com](mailto:nitin2911.in@gmail.com)
-* 🧠  I'm currently learning React, Node.js, Express.js, MongoDB, and Data Structures & Algorithms in Java.
-* 👥  I'm looking to collaborate on Open Source Projects, Full Stack Applications, and Java-Based Projects.
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+<p>
+  <a href="https://github.com/nitinkumar2911">
+    <img src="https://img.shields.io/badge/GitHub-nitinkumar2911-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-2563EB?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=for-the-badge" alt="Always learning"/>
 </p>
 
-### Socials
+</div>
 
-<p align="left"> <a href="https://www.github.com/nitinkumar2911" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/nitinkumar_2911" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/nitinkumar2911" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/nitinkumar2911" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nitinkumar2911?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/nitinkumar_2911" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nitinkumar_2911?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 👨‍💻 About Me
 
-<a href="http://www.github.com/nitinkumar2911"><img src="https://github-readme-stats.vercel.app/api?username=nitinkumar2911&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nitinkumar2911's GitHub stats" /></a>
+```javascript
+const nitin = {
+  role: "Full Stack Developer",
+  languages: ["Java", "JavaScript"],
+  frontend: ["HTML", "CSS", "React", "Bootstrap"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  database: ["MongoDB", "MySQL"],
+  interests: ["Data Structures & Algorithms", "Open Source"],
+  motto: "Turning ideas into real-world projects."
+};
+```
 
-<a href="http://www.github.com/nitinkumar2911"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nitinkumar2911&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Building practical applications and learning by doing.
+- Strengthening problem-solving skills through DSA.
+- Exploring backend development, databases, and APIs.
+- Interested in collaborating on meaningful projects.
 
-<a href="https://github.com/nitinkumar2911" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2911&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## ⚡ Tech Stack
 
-<b>Top Repositories</b>
+<div align="center">
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### Languages
+<img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Java, JavaScript, HTML and CSS"/>
 
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap,vite" alt="React, Bootstrap and Vite"/>
 
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB and MySQL"/>
 
-## 🐍 My GitHub Contribution Snake
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" alt="Git, GitHub, VS Code, Docker and Postman"/>
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/nitinkumar2911?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
+
+> Add links to your best projects here, including their technology stack and a short description. Pin your strongest repositories on your GitHub profile for easy access.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nitinkumar2911&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkumar2911&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=nitinkumar2911&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg" width="100%">
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg" width="100%">
 </picture>
 
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/nitinkumar2911">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
