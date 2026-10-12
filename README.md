@@ -43,3 +43,14 @@ src="https://img.shields.io/twitter/follow/nitinkumar_2911?logo=twitter&style=fo
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+
+## 🐍 My GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg" width="100%">
+</picture>
+
