@@ -115,3 +115,17 @@ const nitin = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Decorative footer"/>
 
 </div>
+
+## 🐍 Neon Contribution Zone
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+<h3>⚡ CODE • CREATE • CONQUER ⚡</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:7C3AED&height=4&section=header" width="100%" alt="Neon divider"/>
+
+**💜 Keep Learning • 💙 Keep Building • 💚 Keep Growing**
+
+</div>
