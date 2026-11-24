@@ -1,4 +1,3 @@
-
 <!-- ========== HERO BANNER ========== -->
 
 <div align="center">
@@ -60,15 +59,27 @@ const nitin = {
 
 ## 🚀 Featured Projects
 
+### 🎯 CareerForge — AI-Powered Placement Platform
+A full-stack web application designed to streamline campus placement preparation with AI-powered tools, student profiles, and resume building.
+
+- **Tech Stack:** React, Node.js, Express.js, MongoDB
+- **Links:**
+  <a href="https://careerforge-ai-powered-placement.onrender.com/">
+    <img src="https://img.shields.io/badge/Live%20Demo-16A34A?style=for-the-badge&logo=render&logoColor=white" alt="CareerForge Live Demo"/>
+  </a>
+  <a href="https://github.com/nitinkumar2911/CareerForge">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="CareerForge GitHub Repository"/>
+  </a>
+
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/nitinkumar2911?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
-
-> Add links to your best projects here, including their technology stack and a short description. Pin your strongest repositories on your GitHub profile for easy access.
 
 ## 📊 GitHub Analytics
 
@@ -82,7 +93,7 @@ const nitin = {
 
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Neon Contribution Zone
 
 <div align="center">
 
@@ -91,6 +102,12 @@ const nitin = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg">
   <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake.svg" width="100%">
 </picture>
+
+<h3>⚡ CODE • CREATE • CONQUER ⚡</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:7C3AED&height=4&section=header" width="100%" alt="Neon divider"/>
+
+**💜 Keep Learning • 💙 Keep Building • 💚 Keep Growing**
 
 </div>
 
@@ -113,19 +130,5 @@ const nitin = {
 ### 💙 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=110&section=footer" width="100%" alt="Decorative footer"/>
-
-</div>
-
-## 🐍 Neon Contribution Zone
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitinkumar2911/nitinkumar2911/output/github-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
-
-<h3>⚡ CODE • CREATE • CONQUER ⚡</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:7C3AED&height=4&section=header" width="100%" alt="Neon divider"/>
-
-**💜 Keep Learning • 💙 Keep Building • 💚 Keep Growing**
 
 </div>
